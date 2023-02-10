@@ -23,7 +23,7 @@ import './js/filter-search-films';
 import './js/animationsFilterBtn';
 
 // ! Section for create new Class instances:
-// here you create new Class instances
+// here you create new Class  instances
 
 // ! Section for add listeners:
 // here you add listeners
